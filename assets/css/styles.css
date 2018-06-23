@@ -75,10 +75,18 @@ h4 {
 
 #columnid {
     background-color: #d98cb3;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 16px;
+    margin-right: 4px;
     border: 2px solid #f5f8f5;
-    max-width: 49%;
+    max-width: 48%;
+}
+
+#fullcolumn {
+    background-color: #d98cb3;
+    margin-left: 15px;
+    margin-right: 4px;
+    border: 2px solid #f5f8f5;
+    max-width: 97%;
 }
 
 .img-responsive {
@@ -133,7 +141,7 @@ h4 {
     padding: 15px;
     padding-bottom: 10px;
     border: 2px solid #f5f8f5;
-    max-width: 99%;
+    max-width: 100%;
 }
 
 .profile-img {
